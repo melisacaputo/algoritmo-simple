@@ -1,4 +1,3 @@
-
 let nombre = prompt("Ingresa tu nombre");
 alert("¡Hola," + " " + nombre + "!");
 console.log ("El nombre del usuario es:" + " " + nombre);
